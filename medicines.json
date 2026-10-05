@@ -1,0 +1,20 @@
+[
+  {
+    "medicine_id": "M001",
+    "medicine_name": "Metformin",
+    "category": "Diabetes",
+    "price": 120.5
+  },
+  {
+    "medicine_id": "M002",
+    "medicine_name": "Amlodipine",
+    "category": "Hypertension",
+    "price": 85.0
+  },
+  {
+    "medicine_id": "M003",
+    "medicine_name": "Salbutamol",
+    "category": "Asthma",
+    "price": 150.75
+  }
+]
