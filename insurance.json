@@ -1,0 +1,23 @@
+[
+  {
+    "policy_id": "P001",
+    "patient_id": 101,
+    "provider": "HealthSecure",
+    "policy_type": "Individual",
+    "coverage_amount": 500000
+  },
+  {
+    "policy_id": "P002",
+    "patient_id": 102,
+    "provider": "MediCare Plus",
+    "policy_type": "Family",
+    "coverage_amount": 750000
+  },
+  {
+    "policy_id": "P003",
+    "patient_id": 103,
+    "provider": "HealthSecure",
+    "policy_type": "Individual",
+    "coverage_amount": 300000
+  }
+]
