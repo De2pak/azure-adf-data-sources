@@ -1,0 +1,23 @@
+[
+  {
+    "admission_id": "A001",
+    "patient_id": 101,
+    "hospital_id": "H001",
+    "admission_date": "2026-09-01",
+    "admission_type": "Emergency"
+  },
+  {
+    "admission_id": "A002",
+    "patient_id": 102,
+    "hospital_id": "H002",
+    "admission_date": "2026-09-03",
+    "admission_type": "Routine"
+  },
+  {
+    "admission_id": "A003",
+    "patient_id": 103,
+    "hospital_id": "H003",
+    "admission_date": "2026-09-05",
+    "admission_type": "Emergency"
+  }
+]
