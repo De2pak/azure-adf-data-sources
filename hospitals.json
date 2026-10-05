@@ -1,0 +1,20 @@
+[
+  {
+    "hospital_id": "H001",
+    "hospital_name": "City Care Hospital",
+    "city": "Delhi",
+    "beds": 250
+  },
+  {
+    "hospital_id": "H002",
+    "hospital_name": "Sunrise Medical Center",
+    "city": "Jaipur",
+    "beds": 180
+  },
+  {
+    "hospital_id": "H003",
+    "hospital_name": "Apollo Health Point",
+    "city": "Mumbai",
+    "beds": 320
+  }
+]
